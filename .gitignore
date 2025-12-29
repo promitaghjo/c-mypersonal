@@ -1,0 +1,9 @@
+# Ignore logs and evidence
+logs/
+evidence/
+
+# Ignore model weights
+*.pt
+
+# Python cache
+__pycache__/
